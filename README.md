@@ -13,7 +13,9 @@ M. R. Habibi, H. R. Baghaee, T. Dragičević and F. Blaabjerg, "False Data Injec
 
 Abstract: Because of the existence of communication networks and control applications, DC microgrids can be attacked by cyber-attackers. False data injection attack (FDIA) is one type of cyber-attacks where attackers try to inject false data to the target DC microgrid to destruct the control system. This brief discusses the effect of FDIAs in DC microgrids that are structured by parallel DC/DC converters and they are controlled by droop based control strategies to maintain the desired DC voltage level. Also, an effective and proper strategy based on an artificial neural network-based reference tracking application is introduced to remove the FDIAs in the DC microgrid.
 keywords: {Microgrids;Biological neural networks;Neurons;Voltage control;Training;Circuits and systems;Artificial neural networks;cyber-attack;DC microgrid;droop control;false data injection attack},
+
 URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9146309&isnumber=9340029
+
 https://doi.org/10.1109/TCSII.2020.3011324
 
 
@@ -69,8 +71,6 @@ The simulation successfully mitigates false data injection attacks with an artif
 - MATLAB Neural Networks
 - Cyber-Physical Systems
 - Energy Security
-
-I hope it would be helpful !
 - Power System Stability
 - Attack Mitigation in Microgrids
 - Power System Control
@@ -78,3 +78,6 @@ I hope it would be helpful !
 - Power Systems Cyber Attacks
 - Power Systems Simulation
 - Electric Power System Engineering
+
+I hope it would be helpful !
+Hamed Najafi
